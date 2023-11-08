@@ -21,5 +21,4 @@ Hello there! I'm a passionate computer science engineering student. This is my G
 You can reach out to me through:
 
 - 📧 Email: beaulah2708@gmail.com
--
 
